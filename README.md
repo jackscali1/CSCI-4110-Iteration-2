@@ -13,7 +13,7 @@ This phase introduces new use cases that extend our task management platform wit
 
 | File Name       | Description                                       |
 |------------------|---------------------------------------------------|
-| `dashboard.html` | Displays all tasks in a table with basic info     |
+| `index.html` | Displays all tasks in a table with basic info     |
 | `message.html`   | Allows team members to post messages to a task    |
 | `edit-task.html` | Enables editing task title, description, due date |
 
@@ -47,7 +47,7 @@ Each file is styled with internal CSS and includes basic JavaScript functionalit
 
 ## 🔗 Live Demo
 
-> [Insert GitHub Pages link here once deployed]
+> [https://jackscali1.github.io/CSCI-Iteration-2/index.html, https://jackscali1.github.io/CSCI-Iteration-2/message.html , https://jackscali1.github.io/CSCI-Iteration-2/edit-task.html]
 
 ---
 
