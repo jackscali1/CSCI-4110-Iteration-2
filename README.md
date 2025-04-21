@@ -47,7 +47,9 @@ Each file is styled with internal CSS and includes basic JavaScript functionalit
 
 ## 🔗 Live Demo
 
-> [https://jackscali1.github.io/CSCI-Iteration-2/index.html, https://jackscali1.github.io/CSCI-Iteration-2/message.html , https://jackscali1.github.io/CSCI-Iteration-2/edit-task.html]
+> [Page 1- https://jackscali1.github.io/CSCI-Iteration-2/index.html,
+> Page 2- https://jackscali1.github.io/CSCI-Iteration-2/message.html,
+> Page 3- https://jackscali1.github.io/CSCI-Iteration-2/edit-task.html]
 
 ---
 
